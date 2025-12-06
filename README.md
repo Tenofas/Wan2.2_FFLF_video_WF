@@ -1,6 +1,6 @@
 # Wan2.2 FFLF video WF - ComfyUI Workflow
 
-![Preview](assets/preview.png)
+![Preview](assets/workflow.png)
 
 ## 📖 Description
 
